@@ -15,21 +15,27 @@ Mordecai Crypter is a powerful and versatile tool designed to encrypt and obfusc
 
 ## Installation
 
+### Windows
+
+For Windows users, simply download the latest executable file from the [releases](https://github.com/Open-Mordecai/mordecai-crypter/releases) page and run it on your system.
+
+### Other Platforms
+
 1. Clone the Mordecai Crypter repository to your local machine:
 
 ```bash
 git clone https://github.com/Open-Mordecai/mordecai-crypter.git
+```
 
 
 
-```markdown
 2. Navigate to the project directory:
-
+   
 ```bash
 cd mordecai-crypter
+```
 
 
-```markdown
 ## Usage
 
 Encrypting a file with Mordecai Crypter is simple. Follow these steps:
@@ -38,18 +44,16 @@ Encrypting a file with Mordecai Crypter is simple. Follow these steps:
 
 ```bash
 ./mordecai-crypter
+```
 
 
-
-```markdown
 2. Specify the input file you want to encrypt:
 
-```bash
 Enter the path to the input file: /path/to/your/file.exe
 
 
 
-```markdown
+
 3. Choose the encryption and obfuscation settings:
 
 ```bash
@@ -63,10 +67,9 @@ Select obfuscation level:
 2. Medium
 3. High
 Enter your choice: 3
+```
 
 
-
-```markdown
 4. Mordecai Crypter will encrypt and obfuscate the file, generating the output file in the same directory.
 
 
